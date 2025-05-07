@@ -19,7 +19,7 @@
 ## Structura proiectului
 
 spanzuratoarea-hackademy-project/
-├── main.py # codul principal al jocului
-├── substantive.txt # listă mare cu sute de cuvinte românești
+- main.py # codul principal al jocului
+- substantive.txt # listă mare cu sute de cuvinte românești
 
 ---
