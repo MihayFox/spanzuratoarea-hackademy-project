@@ -20,6 +20,6 @@
 
 spanzuratoarea-hackademy-project/
 - main.py # codul principal al jocului
-- substantive.txt # listă mare cu sute de cuvinte românești
+- substantive.txt # listă mare cu sute de cuvinte românești fără diacritice
 
 ---
